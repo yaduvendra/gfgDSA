@@ -1,5 +1,4 @@
-class findMissing { 
-	// Function to ind missing number 
+class findMissing {  
 	static int getMissingNo(int a[], int n) 
 	{ 
 		int i, total; 
@@ -9,7 +8,6 @@ class findMissing {
 		return total; 
 	} 
 
-	/* program to test above function */
 	public static void main(String args[]) 
 	{ 
 		int a[] = { 1, 2, 4, 5, 6 }; 
